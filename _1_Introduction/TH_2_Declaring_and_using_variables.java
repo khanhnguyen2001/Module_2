@@ -1,4 +1,4 @@
-package Introduction_1_TH_1;
+package _1_Introduction;
 
 public class TH_2_Declaring_and_using_variables {
     public static void main(String[] args) {
