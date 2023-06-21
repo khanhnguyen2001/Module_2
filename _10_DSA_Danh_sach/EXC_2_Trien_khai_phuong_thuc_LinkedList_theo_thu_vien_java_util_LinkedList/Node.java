@@ -1,0 +1,4 @@
+package _10_DSA_Danh_sach.EXC_2_Trien_khai_phuong_thuc_LinkedList_theo_thu_vien_java_util_LinkedList;
+
+public class Node {
+}
